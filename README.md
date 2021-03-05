@@ -1,4 +1,4 @@
-## Automated-Django-Project-Creatation
+## Automated-Django-Project-Creation
 A Python script to setup a Django project automatically with a virtual environment.
 
 ## Manual
